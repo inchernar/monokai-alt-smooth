@@ -1,0 +1,37 @@
+{
+	"name": "monokai-alt-smooth",
+	"version": "0.1.0",
+	"displayName": "Monokai Alt Smooth",
+	"homepage": "https://github.com/ilsuryusipov/monokai-alt-smooth",
+	"description": "Fork for 'Monokai Alt' theme",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ilsuryusipov/monokai-alt-smooth.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ilsuryusipov/monokai-alt-smooth/issues"
+	},
+	"engines": {
+		"vscode": "^1.18.0"
+	},
+	"categories": [
+		"Themes"
+	],
+    "keywords": [
+		"monokai",
+		"alt",
+		"smooth",
+		"theme",
+		"color-theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Alt Smooth v1",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-alt-smooth-v1.json"
+			}
+		]
+	}
+}
