@@ -1,7 +1,7 @@
-# .SILENT: 
+# .SILENT:
 
-THEME_RAW_NAME = "monokai-alt-smoot"
-THEME_PRETTY_NAME = "Monokai Alt Smoot"
+THEME_RAW_NAME = "monokai-alt-smooth"
+THEME_PRETTY_NAME = "Monokai Alt Smooth"
 
 
 ### VSCODE ###
